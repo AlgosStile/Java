@@ -28,11 +28,13 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-!**/src/main/**/build/
-!**/src/Test/**/build/
+
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
+/Stepik-test/
+.idea
